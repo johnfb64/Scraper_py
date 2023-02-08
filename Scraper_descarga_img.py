@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Hacer una solicitud HTTP a la página web
-url = "https://picsum.photos/"
+url = "http://craphound.com/images/1006884_2adf8fc7.jpg"
 response = requests.get(url)
 
 # Analizar el contenido HTML de la página web
